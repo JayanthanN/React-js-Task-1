@@ -5,7 +5,7 @@ function App() {
   return (
     < >
       
-      {/* <h1>My Introduction</h1>
+      <h1>My Introduction</h1>
 
       <h2>Name: Jayanthan</h2>
       <p>Email: jayanthan@email.com</p>
@@ -14,12 +14,12 @@ function App() {
       <p>
         Hello! I'm Jayanthanan, a passionate learner exploring React JS 
         and building modern web applications.
-      </p> */}
+      </p>
 
 
     
     </>
-  );
+  )
 }
 
 export default App;
